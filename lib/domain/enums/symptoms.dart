@@ -1,0 +1,4 @@
+enum SymptomType {
+  fatigue,
+  vomiting,
+}
